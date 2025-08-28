@@ -1,8 +1,4 @@
 
-Tannu Vijay
-22:30 (0 minutes ago)
-to me
-
 # DBMS Project
 
 This is a Student Management System built using **MongoDB, Express, Node.js**, and **EJS**. The project allows administrators to manage student information efficiently, including adding, updating, and deleting student details. It also includes authentication for the admin panel.
